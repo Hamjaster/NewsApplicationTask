@@ -24,34 +24,37 @@ Make sure you have the following installed:
 
 ### Clone the Repository
 
-````bash
+```bash
 git clone https://github.com/your-username/your-repository.git
 cd your-repository
+```
 
+---
 
-**Backend Setup : **
+Backend Setup :-
+
 ```bash
 cd backend
 
-```bash
+bash
 npm install
 
-```bash
+bash
 npm run dev
+```
 
 The backend would be live at : [http://localhost:3000]
-````
 
-**Frontend Setup : **
+Frontend Setup :
 
-````bash
+```bash
 cd frontend
 
-```bash
+bash
 npm install
 
-```bash
+bash
 npm run dev
+```
 
 The frontend would be live at : [http://localhost:5173]
-````

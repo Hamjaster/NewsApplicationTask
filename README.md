@@ -29,8 +29,6 @@ git clone https://github.com/your-username/your-repository.git
 cd your-repository
 ```
 
----
-
 Backend Setup :-
 
 ```bash
@@ -54,3 +52,13 @@ npm run dev
 ```
 
 The frontend would be live at : [http://localhost:5173](http://localhost:5173)
+
+---
+
+### Libraries Used
+
+Following libraries are used :
+
+- **axios** For fetching asynchronous requests
+- **react-icons** For using icons in frontend
+- **api-cache** To cache the API responses in backend

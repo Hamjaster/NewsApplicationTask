@@ -36,25 +36,21 @@ Backend Setup :-
 ```bash
 cd backend
 
-bash
 npm install
 
-bash
 npm run dev
 ```
 
-The backend would be live at : [http://localhost:3000]
+The backend would be live at : [http://localhost:3000](http://localhost:3000)
 
 Frontend Setup :
 
 ```bash
 cd frontend
 
-bash
 npm install
 
-bash
 npm run dev
 ```
 
-The frontend would be live at : [http://localhost:5173]
+The frontend would be live at : [http://localhost:5173](http://localhost:5173)
